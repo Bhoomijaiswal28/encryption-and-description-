@@ -1,0 +1,21 @@
+*** CAESAR CIPHER PROGRAM ***
+
+case 1: Do you want to encrypt or decrypt?
+e/d: e
+
+ENCRYPTION MODE SELECTED      
+
+Enter the key (1 through 26): 15
+Enter the text to encrypt: priya
+CIPHERTEXT: egxnp
+
+*** CAESAR CIPHER PROGRAM ***     
+
+case 2:Do you want to encrypt or decrypt?
+e/d: d
+
+DECRYPTION MODE SELECTED
+
+Enter the key (1 through 26): 17
+Enter the text to decrypt: i love you
+PLAINTEXT: r uxen hxd
